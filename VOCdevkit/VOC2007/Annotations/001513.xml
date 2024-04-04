@@ -1,0 +1,12 @@
+<annotation>
+   <frame>GOPR0293_29090</frame>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>1473</xmin>
+         <ymin>723</ymin>
+         <xmax>1729</xmax>
+         <ymax>958</ymax>
+      </bndbox>
+   </object>
+<size><width>1920</width><height>1080</height></size></annotation>

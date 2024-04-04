@@ -1,0 +1,12 @@
+<annotation>
+   <frame>YN020013_4029</frame>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>258</xmin>
+         <ymin>143</ymin>
+         <xmax>299</xmax>
+         <ymax>204</ymax>
+      </bndbox>
+   </object>
+<size><width>720</width><height>405</height></size></annotation>

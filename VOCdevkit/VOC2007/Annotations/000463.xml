@@ -1,0 +1,30 @@
+<annotation>
+	<frame>2019v100530</frame>
+	<object>
+		<name>scallop</name>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>1483</ymin>
+			<xmax>608</xmax>
+			<ymax>1703</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>667</ymin>
+			<xmax>293</xmax>
+			<ymax>1006</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>674</xmin>
+			<ymin>1382</ymin>
+			<xmax>1609</xmax>
+			<ymax>2161</ymax>
+		</bndbox>
+	</object>
+<size><width>3840</width><height>2160</height></size></annotation>

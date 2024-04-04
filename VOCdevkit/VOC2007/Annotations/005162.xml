@@ -1,0 +1,12 @@
+<annotation>
+   <frame>YN040001_936</frame>
+   <object>
+      <name>waterweeds</name>
+      <bndbox>
+         <xmin>169</xmin>
+         <ymin>2</ymin>
+         <xmax>721</xmax>
+         <ymax>406</ymax>
+      </bndbox>
+   </object>
+<size><width>720</width><height>405</height></size></annotation>

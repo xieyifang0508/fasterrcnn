@@ -1,0 +1,21 @@
+<annotation>
+   <frame>YDXJ0002_13866</frame>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>197</xmin>
+         <ymin>177</ymin>
+         <xmax>240</xmax>
+         <ymax>246</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>97</xmin>
+         <ymin>253</ymin>
+         <xmax>149</xmax>
+         <ymax>323</ymax>
+      </bndbox>
+   </object>
+<size><width>720</width><height>405</height></size></annotation>

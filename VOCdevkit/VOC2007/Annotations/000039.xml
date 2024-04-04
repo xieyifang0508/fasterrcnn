@@ -1,0 +1,21 @@
+<annotation>
+	<frame>12-8GOPR0192271</frame>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>865</xmin>
+			<ymin>478</ymin>
+			<xmax>1005</xmax>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1235</xmin>
+			<ymin>357</ymin>
+			<xmax>1315</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+<size><width>1920</width><height>1080</height></size></annotation>

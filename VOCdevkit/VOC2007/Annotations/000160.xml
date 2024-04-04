@@ -1,0 +1,21 @@
+<annotation>
+	<frame>2019v100065</frame>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1423</xmin>
+			<ymin>1643</ymin>
+			<xmax>1874</xmax>
+			<ymax>1965</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1724</xmin>
+			<ymin>1456</ymin>
+			<xmax>2135</xmax>
+			<ymax>1762</ymax>
+		</bndbox>
+	</object>
+<size><width>3840</width><height>2160</height></size></annotation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+	<frame>000497</frame>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>2796</xmin>
+			<ymin>1561</ymin>
+			<xmax>3353</xmax>
+			<ymax>1866</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>3408</xmin>
+			<ymin>1130</ymin>
+			<xmax>3840</xmax>
+			<ymax>1503</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2063</xmin>
+			<ymin>1164</ymin>
+			<xmax>2192</xmax>
+			<ymax>1278</ymax>
+		</bndbox>
+	</object>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+</annotation>

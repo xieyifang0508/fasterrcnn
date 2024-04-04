@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<annotation>
+	<frame>000085</frame>
+	<object>
+		<name>scallop</name>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>1785</ymin>
+			<xmax>656</xmax>
+			<ymax>1958</ymax>
+		</bndbox>
+	</object>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+</annotation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+	<frame>001091</frame>
+	<object>
+		<name>scallop</name>
+		<bndbox>
+			<xmin>3035</xmin>
+			<ymin>281</ymin>
+			<xmax>3172</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1013</xmin>
+			<ymin>1020</ymin>
+			<xmax>1177</xmax>
+			<ymax>1343</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>2014</xmin>
+			<ymin>1578</ymin>
+			<xmax>2219</xmax>
+			<ymax>1973</ymax>
+		</bndbox>
+	</object>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+</annotation>

@@ -1,0 +1,21 @@
+<annotation>
+   <frame>CHN083846_0439</frame>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>305</xmin>
+         <ymin>369</ymin>
+         <xmax>354</xmax>
+         <ymax>424</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>waterweeds</name>
+      <bndbox>
+         <xmin>103</xmin>
+         <ymin>1</ymin>
+         <xmax>587</xmax>
+         <ymax>316</ymax>
+      </bndbox>
+   </object>
+<size><width>586</width><height>480</height></size></annotation>

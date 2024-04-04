@@ -1,0 +1,30 @@
+<annotation>
+	<frame>2019v100036</frame>
+	<object>
+		<name>scallop</name>
+		<bndbox>
+			<xmin>2151</xmin>
+			<ymin>1864</ymin>
+			<xmax>2402</xmax>
+			<ymax>2015</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1632</xmin>
+			<ymin>1690</ymin>
+			<xmax>1989</xmax>
+			<ymax>2061</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>727</xmin>
+			<ymin>1226</ymin>
+			<xmax>1005</xmax>
+			<ymax>1371</ymax>
+		</bndbox>
+	</object>
+<size><width>3840</width><height>2160</height></size></annotation>

@@ -1,0 +1,30 @@
+<annotation>
+	<frame>2019v100029</frame>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>2017</xmin>
+			<ymin>903</ymin>
+			<xmax>2369</xmax>
+			<ymax>1112</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>2527</xmin>
+			<ymin>1256</ymin>
+			<xmax>2987</xmax>
+			<ymax>1509</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>2031</xmin>
+			<ymin>1189</ymin>
+			<xmax>2649</xmax>
+			<ymax>1583</ymax>
+		</bndbox>
+	</object>
+<size><width>3840</width><height>2160</height></size></annotation>

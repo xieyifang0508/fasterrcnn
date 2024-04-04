@@ -1,0 +1,21 @@
+<annotation>
+   <frame>GP010293_18056</frame>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>664</xmin>
+         <ymin>111</ymin>
+         <xmax>699</xmax>
+         <ymax>145</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>142</xmin>
+         <ymin>208</ymin>
+         <xmax>243</xmax>
+         <ymax>316</ymax>
+      </bndbox>
+   </object>
+<size><width>720</width><height>405</height></size></annotation>

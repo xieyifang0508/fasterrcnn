@@ -1,0 +1,12 @@
+<annotation>
+   <frame>GOPR0293_18954</frame>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>1289</xmin>
+         <ymin>192</ymin>
+         <xmax>1423</xmax>
+         <ymax>301</ymax>
+      </bndbox>
+   </object>
+<size><width>1920</width><height>1080</height></size></annotation>

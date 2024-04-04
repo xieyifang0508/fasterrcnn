@@ -1,0 +1,30 @@
+<annotation>
+   <frame>YN020002_10066</frame>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>323</xmin>
+         <ymin>196</ymin>
+         <xmax>375</xmax>
+         <ymax>247</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>388</xmin>
+         <ymin>67</ymin>
+         <xmax>472</xmax>
+         <ymax>150</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>408</xmin>
+         <ymin>250</ymin>
+         <xmax>474</xmax>
+         <ymax>318</ymax>
+      </bndbox>
+   </object>
+<size><width>720</width><height>405</height></size></annotation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+	<frame>000192</frame>
+	<object>
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1857</xmin>
+			<ymin>1466</ymin>
+			<xmax>2125</xmax>
+			<ymax>1636</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scallop</name>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>1268</ymin>
+			<xmax>750</xmax>
+			<ymax>1536</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2933</xmin>
+			<ymin>1140</ymin>
+			<xmax>3371</xmax>
+			<ymax>1469</ymax>
+		</bndbox>
+	</object>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+</annotation>

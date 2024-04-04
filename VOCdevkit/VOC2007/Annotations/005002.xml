@@ -1,0 +1,21 @@
+<annotation>
+	<frame>YN030021139</frame>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1094</xmin>
+			<ymin>23</ymin>
+			<xmax>1887</xmax>
+			<ymax>771</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1886</xmin>
+			<ymin>1247</ymin>
+			<xmax>2638</xmax>
+			<ymax>1692</ymax>
+		</bndbox>
+	</object>
+<size><width>3840</width><height>2160</height></size></annotation>

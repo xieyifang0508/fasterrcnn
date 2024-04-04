@@ -1,0 +1,12 @@
+<annotation>
+   <frame>GOPR0293_36618</frame>
+   <object>
+      <name>starfish</name>
+      <bndbox>
+         <xmin>167</xmin>
+         <ymin>889</ymin>
+         <xmax>337</xmax>
+         <ymax>993</ymax>
+      </bndbox>
+   </object>
+<size><width>1920</width><height>1080</height></size></annotation>

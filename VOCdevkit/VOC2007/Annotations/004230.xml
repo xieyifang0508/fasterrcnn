@@ -1,0 +1,21 @@
+<annotation>
+   <frame>YN030001_13941</frame>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>153</xmin>
+         <ymin>257</ymin>
+         <xmax>222</xmax>
+         <ymax>320</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>waterweeds</name>
+      <bndbox>
+         <xmin>1</xmin>
+         <ymin>1</ymin>
+         <xmax>218</xmax>
+         <ymax>406</ymax>
+      </bndbox>
+   </object>
+<size><width>720</width><height>405</height></size></annotation>

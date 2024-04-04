@@ -1,0 +1,30 @@
+<annotation>
+   <frame>YN030001_14321</frame>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>220</xmin>
+         <ymin>154</ymin>
+         <xmax>261</xmax>
+         <ymax>209</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>298</xmin>
+         <ymin>147</ymin>
+         <xmax>342</xmax>
+         <ymax>200</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>waterweeds</name>
+      <bndbox>
+         <xmin>2</xmin>
+         <ymin>128</ymin>
+         <xmax>109</xmax>
+         <ymax>298</ymax>
+      </bndbox>
+   </object>
+<size><width>720</width><height>405</height></size></annotation>

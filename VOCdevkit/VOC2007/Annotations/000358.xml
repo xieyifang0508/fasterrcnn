@@ -1,0 +1,30 @@
+<annotation>
+	<frame>2019v100408</frame>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1199</xmin>
+			<ymin>1055</ymin>
+			<xmax>1610</xmax>
+			<ymax>1371</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1519</xmin>
+			<ymin>1472</ymin>
+			<xmax>2156</xmax>
+			<ymax>2161</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>1047</ymin>
+			<xmax>524</xmax>
+			<ymax>1299</ymax>
+		</bndbox>
+	</object>
+<size><width>3840</width><height>2160</height></size></annotation>

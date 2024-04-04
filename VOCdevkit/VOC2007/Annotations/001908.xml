@@ -1,0 +1,30 @@
+<annotation>
+   <frame>GP010293_37701</frame>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>289</xmin>
+         <ymin>201</ymin>
+         <xmax>358</xmax>
+         <ymax>251</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>299</xmin>
+         <ymin>165</ymin>
+         <xmax>360</xmax>
+         <ymax>217</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>458</xmin>
+         <ymin>314</ymin>
+         <xmax>510</xmax>
+         <ymax>406</ymax>
+      </bndbox>
+   </object>
+<size><width>720</width><height>405</height></size></annotation>

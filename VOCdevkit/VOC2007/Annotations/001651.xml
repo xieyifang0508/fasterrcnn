@@ -1,0 +1,30 @@
+<annotation>
+   <frame>GOPR0293_49850</frame>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>653</xmin>
+         <ymin>879</ymin>
+         <xmax>746</xmax>
+         <ymax>1081</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>911</xmin>
+         <ymin>835</ymin>
+         <xmax>1219</xmax>
+         <ymax>963</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>1023</xmin>
+         <ymin>517</ymin>
+         <xmax>1118</xmax>
+         <ymax>612</ymax>
+      </bndbox>
+   </object>
+<size><width>1920</width><height>1080</height></size></annotation>

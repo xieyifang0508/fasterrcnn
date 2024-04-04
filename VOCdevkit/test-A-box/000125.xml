@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<annotation>
+	<frame>000125</frame>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1589</xmin>
+			<ymin>799</ymin>
+			<xmax>1726</xmax>
+			<ymax>945</ymax>
+		</bndbox>
+	</object>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+</annotation>

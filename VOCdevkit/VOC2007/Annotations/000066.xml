@@ -1,0 +1,21 @@
+<annotation>
+	<frame>2017v100129</frame>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1360</xmin>
+			<ymin>773</ymin>
+			<xmax>1634</xmax>
+			<ymax>996</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>585</xmin>
+			<ymin>509</ymin>
+			<xmax>842</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+<size><width>1920</width><height>1080</height></size></annotation>

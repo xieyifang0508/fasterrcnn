@@ -1,0 +1,30 @@
+<annotation>
+   <frame>YN030001_312</frame>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>333</xmin>
+         <ymin>214</ymin>
+         <xmax>393</xmax>
+         <ymax>268</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>starfish</name>
+      <bndbox>
+         <xmin>487</xmin>
+         <ymin>21</ymin>
+         <xmax>528</xmax>
+         <ymax>62</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>115</xmin>
+         <ymin>41</ymin>
+         <xmax>177</xmax>
+         <ymax>99</ymax>
+      </bndbox>
+   </object>
+<size><width>720</width><height>405</height></size></annotation>

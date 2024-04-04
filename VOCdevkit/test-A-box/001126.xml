@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<annotation>
+	<frame>001126</frame>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>987</xmin>
+			<ymin>934</ymin>
+			<xmax>1072</xmax>
+			<ymax>1008</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>1812</ymin>
+			<xmax>472</xmax>
+			<ymax>1982</ymax>
+		</bndbox>
+	</object>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+</annotation>

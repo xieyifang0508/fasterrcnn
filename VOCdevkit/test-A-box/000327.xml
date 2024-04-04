@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+	<frame>000327</frame>
+	<object>
+		<name>scallop</name>
+		<bndbox>
+			<xmin>3492</xmin>
+			<ymin>1739</ymin>
+			<xmax>3617</xmax>
+			<ymax>1854</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>3210</xmin>
+			<ymin>1719</ymin>
+			<xmax>3388</xmax>
+			<ymax>1894</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1898</xmin>
+			<ymin>1430</ymin>
+			<xmax>2033</xmax>
+			<ymax>1569</ymax>
+		</bndbox>
+	</object>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+</annotation>

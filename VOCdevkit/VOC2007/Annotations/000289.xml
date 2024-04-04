@@ -1,0 +1,12 @@
+<annotation>
+	<frame>2019v100335</frame>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2009</xmin>
+			<ymin>469</ymin>
+			<xmax>2222</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+<size><width>3840</width><height>2160</height></size></annotation>

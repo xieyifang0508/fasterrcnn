@@ -1,0 +1,30 @@
+<annotation>
+   <frame>YN030001_12474</frame>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>104</xmin>
+         <ymin>101</ymin>
+         <xmax>170</xmax>
+         <ymax>166</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>119</xmin>
+         <ymin>37</ymin>
+         <xmax>180</xmax>
+         <ymax>91</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>starfish</name>
+      <bndbox>
+         <xmin>302</xmin>
+         <ymin>234</ymin>
+         <xmax>361</xmax>
+         <ymax>282</ymax>
+      </bndbox>
+   </object>
+<size><width>720</width><height>405</height></size></annotation>
