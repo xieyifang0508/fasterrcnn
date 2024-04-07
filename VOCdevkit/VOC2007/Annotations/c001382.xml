@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<annotation>
+	<frame>c001382</frame>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1901</xmin>
+			<ymin>72</ymin>
+			<xmax>2117</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>2209</xmin>
+			<ymin>839</ymin>
+			<xmax>2572</xmax>
+			<ymax>1220</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1679</xmin>
+			<ymin>549</ymin>
+			<xmax>1874</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1297</xmin>
+			<ymin>1248</ymin>
+			<xmax>1429</xmax>
+			<ymax>1396</ymax>
+		</bndbox>
+	</object>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+</annotation>

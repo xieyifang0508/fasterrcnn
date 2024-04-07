@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<annotation>
+	<frame>c000009</frame>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>699</xmin>
+			<ymin>330</ymin>
+			<xmax>826</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+	</size>
+</annotation>

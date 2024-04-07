@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+	<frame>c000783</frame>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1793</xmin>
+			<ymin>1761</ymin>
+			<xmax>2100</xmax>
+			<ymax>2079</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1817</xmin>
+			<ymin>912</ymin>
+			<xmax>2086</xmax>
+			<ymax>1235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1993</xmin>
+			<ymin>314</ymin>
+			<xmax>2173</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+</annotation>

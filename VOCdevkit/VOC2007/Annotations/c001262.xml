@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<annotation>
+	<frame>c001262</frame>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1380</xmin>
+			<ymin>1491</ymin>
+			<xmax>1693</xmax>
+			<ymax>1890</ymax>
+		</bndbox>
+	</object>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+</annotation>

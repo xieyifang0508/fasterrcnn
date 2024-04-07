@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<annotation>
+	<frame>c000744</frame>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1299</xmin>
+			<ymin>979</ymin>
+			<xmax>1517</xmax>
+			<ymax>1193</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>3345</xmin>
+			<ymin>650</ymin>
+			<xmax>3599</xmax>
+			<ymax>848</ymax>
+		</bndbox>
+	</object>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+</annotation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+	<frame>c000526</frame>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>250</ymin>
+			<xmax>287</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>162</ymin>
+			<xmax>470</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>waterweeds</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>228</ymin>
+			<xmax>95</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+	<size>
+		<width>720</width>
+		<height>405</height>
+	</size>
+</annotation>
