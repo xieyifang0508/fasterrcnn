@@ -145,7 +145,7 @@ if __name__ == "__main__":
     #                           Adam可以使用相对较小的UnFreeze_Epoch
     #   Unfreeze_batch_size     模型在解冻后的batch_size
     # ------------------------------------------------------------------#
-    UnFreeze_Epoch = 50
+    UnFreeze_Epoch = 150
     Unfreeze_batch_size = 4
     # ------------------------------------------------------------------#
     #   Freeze_Train    是否进行冻结训练
@@ -208,8 +208,8 @@ if __name__ == "__main__":
     # ----------------------------------------------------#
     #   获得图片路径和标签
     # ----------------------------------------------------#
-    train_annotation_path = '2007_train_relative.txt'
-    val_annotation_path = '2007_val_relative.txt'
+    train_annotation_path = '2007_train.txt'
+    val_annotation_path = '2007_val.txt'
 
     # ----------------------------------------------------#
     #   获取classes和anchor

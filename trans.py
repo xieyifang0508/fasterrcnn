@@ -1,11 +1,11 @@
 import os
 
 # 读取原始文件
-with open('2007_val.txt', 'r') as f:
+with open('2007_train.txt', 'r') as f:
     lines = f.readlines()
 
 # 转换路径并写入新文件
-with open('2007_val_relative.txt', 'w') as f:
+with open('2007_train_relative.txt', 'w') as f:
     for line in lines:
         parts = line.strip().split(' ')
         # 获取文件名（包括路径）
